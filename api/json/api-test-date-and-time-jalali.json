@@ -983,7 +983,7 @@
       "n": "چهارشنبه",
       "closed": false,
       "is_month": true,
-      "to_day": true,
+      "to_day": false,
       "date": {
         "jalali": [
           1402,
@@ -1018,7 +1018,7 @@
       "n": "پنج‌شنبه",
       "closed": false,
       "is_month": true,
-      "to_day": false,
+      "to_day": true,
       "date": {
         "jalali": [
           1402,
